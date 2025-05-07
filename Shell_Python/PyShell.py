@@ -1,4 +1,4 @@
-# Custom Python Shell - Level 4 Shell Implementation
+# Custom Python Shell 
 # Written by John-Michael Barron
 # Supports command execution, directory navigation, environment expansion, piping, redirection,
 # background jobs (&), and command history.
